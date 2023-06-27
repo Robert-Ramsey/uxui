@@ -1,2 +1,2 @@
-# worksamples
-Samples of my software design and developoment work
+# portfolio
+ Samples of my software design and development work
